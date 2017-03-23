@@ -1,0 +1,17 @@
+{
+  "name": "chat1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Norberto",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "hotnode": "0.0.8",
+    "nodemon": "^1.11.0",
+    "socket.io": "^1.7.2"
+  }
+}
